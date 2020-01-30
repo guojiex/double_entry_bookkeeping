@@ -1,6 +1,7 @@
 # double_entry_bookkeeping
 
-A new Flutter application.
+A new Flutter application for double entry bookkeeping.
+Reference to [beancount](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
 
 ## Getting Started
 

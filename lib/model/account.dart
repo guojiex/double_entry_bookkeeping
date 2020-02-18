@@ -12,4 +12,5 @@ class Account {
   // For example "Assets:Cash"
   String name;
   AccountType type;
+  int accountId;
 }
